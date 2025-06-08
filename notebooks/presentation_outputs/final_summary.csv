@@ -1,0 +1,7 @@
+Metric,Value
+True Campaign Effect (per $1000),$50
+Naive Model Estimate,$65
+Correct Model Estimate,$49
+Naive Model Error,30%
+Correct Model Error,-2%
+Business Risk (Overinvestment Factor),1.3x
