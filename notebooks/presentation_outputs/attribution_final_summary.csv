@@ -1,0 +1,8 @@
+Metric,Value
+True Digital Effect (per 1000 impressions),$1.00
+True Offline Effect (per mention),$20.00
+Naive Model Digital Attribution,62.1%
+Correct Model Digital Attribution,0.0%
+Correct Model Offline Attribution,36.4%
+Attribution Error (Digital),4000% overestimate
+Missed Opportunity (Offline),36% of sales ignored
